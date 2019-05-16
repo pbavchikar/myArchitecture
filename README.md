@@ -1,13 +1,13 @@
 Angular architecture patterns
 =============================
 
-This application represents a demo project for **Angular architecture patterns** blog series at [http://netmedia.io](http://netmedia.io/blog/angular-architecture-patterns-high-level-project-architecture_5589).
+This application represents a demo project for **Angular architecture patterns** 
 Frontend app is generated with [Angular CLI](https://github.com/angular/angular-cli). It uses it's own local dev server on `http://localhost:4200/`.
 
 ### Installation
 ```
-git clone https://github.com/anteburazer/angular-architecture-patterns.git
-cd angular-architecture-patterns
+git clone https://github.com/pbavchikar/myArchitecture
+cd myArchitecture
 npm install
 npm run start
 ```
